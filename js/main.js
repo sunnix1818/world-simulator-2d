@@ -17,5 +17,5 @@ function gameLoop() {
 
   requestAnimationFrame(gameLoop);
 }
-
+console.log("partito");
 gameLoop();
